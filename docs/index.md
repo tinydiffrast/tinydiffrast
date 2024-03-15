@@ -3,9 +3,7 @@ Markdown test page.
 
 This is an equation: 
 
-```math
-x_{\mathrm{t}+1} = x_{\mathrm{t}} + \alpha
-```
+$$ x_{\mathrm{t}+1} = x_{\mathrm{t}} + \alpha $$
 
 This is some `inline code`.
 
